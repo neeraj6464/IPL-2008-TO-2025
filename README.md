@@ -63,7 +63,7 @@ The dashboard can be used to investigate:
 Add a screenshot of your dashboard to the `screenshots` folder and display it here:
 
 ```markdown
-![IPL Power BI Dashboard](screenshots/dashboard.png)
+https://github.com/neeraj6464/IPL-2008-TO-2025/blob/main/IPL%20Screenshot.png
 ```
 
 ## 💡 What I Learned
