@@ -61,10 +61,8 @@ The dashboard can be used to investigate:
 ## 🖼️ Dashboard Preview
 
 Add a screenshot of your dashboard to the `screenshots` folder and display it here:
-
-```markdown
-https://github.com/neeraj6464/IPL-2008-TO-2025/blob/main/IPL%20Screenshot.png
-```
+Show what the dashboard looks like.
+Example: ![Dashboard Preview]()
 
 ## 💡 What I Learned
 
