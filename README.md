@@ -53,7 +53,7 @@ The dashboard can be used to investigate:
 
 1. Clone or download this GitHub repository.
 2. Install Microsoft Power BI Desktop.
-3. Open `IPL_Dashboard.pbix`.
+3. Open `https://github.com/neeraj6464/IPL-2008-TO-2025/blob/main/final%201.pbix`.
 4. If required, update the dataset file paths in Power Query.
 5. Refresh the data.
 6. Explore the dashboard using its slicers, charts, and filters.
